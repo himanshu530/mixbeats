@@ -1,3 +1,4 @@
 # mixbeats
-Music making app with basic javascript
-clone this repo to play
+Music making app with basic javascript.
+
+Clone this repo to play
